@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Current Research
+title:
 sidebar:
     nav: research
 ---

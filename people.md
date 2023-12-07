@@ -1,5 +1,6 @@
 ---
 layout: single
+title:
 author_profile: false
 title: Lab Members
 ---
