@@ -5,7 +5,7 @@ sidebar:
     nav: research
 ---
 
-## Methods for determining nucleic acid dynamic ensembles at atomic resolution: role in molecular recognition and RNA folding  {#nucleic-acid-ensembles} 
+## Methods for determining nucleic acid dynamic ensembles at atomic resolution: role in molecular recognition and RNA folding  {#nucleic-acid-ensembles}
 
 <div markdown="1" style="font-size: 18px;">
 While it is now trivial to physically see cellular dynamics, such as a cell dividing, with a microscope, the technology does not yet exist to visualize the structural or chemical dynamics of biochemical reactions on an atomic level, even for the simplest molecules. We are developing hybrid experimental-computational methods that aim to accomplish this goal and determine dynamic-ensembles of nucleic acids at atomic resolution. Our effort thus far has led to the first 3D experimental visualization of motions in RNA at atomic resolution. We continue to improve the ensemble determination approaches as well as building frameworks for utilizing these dynamic ensemble descriptions to elucidate the mechanisms of RNA adaptive recognition; sequence-specific DNA-protein recognition; and RNA tertiary folding. See this Movie of an unbound HIV-1 RNA dynamically sampling its many different drug-bound conformations. 
