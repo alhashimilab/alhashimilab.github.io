@@ -1,0 +1,23 @@
+main:
+  - title: "Research"
+    url: /research/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Art"
+    url: /art/
+  - title: "Resources"
+    url: /resources/
+
+research:
+  - title: Current Research
+    children:
+      - title: "Dynamic Ensembles"
+        url: /research/#nucleic-acid-ensembles
+      - title: "Excited States"
+        url: /research/#excited-states
+      - title: "Hoogsteen Base Pairs"
+        url: /research/#hoogsteen-base-pairs
+      - title: "Drug Discovery"
+        url: /research/#drug-discovery

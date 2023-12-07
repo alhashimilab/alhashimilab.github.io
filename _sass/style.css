@@ -1,0 +1,11 @@
+/* _sass/styles.css */
+
+.lab-member {
+  overflow: hidden;
+}
+
+.lab-member img {
+  float: left;
+  margin-right: 20px;
+}
+
